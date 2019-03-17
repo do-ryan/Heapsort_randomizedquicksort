@@ -1,0 +1,14 @@
+# Please provide running instructions with examples
+instructions = "We have written four java files in the src folder corresponding to the four (three plus an optimization) sorting algorithms to be implemented. They are quicksort.java, randomized_quicksort.java, bubblesort.java, and heapsort.java. To run them, first compile using javac filename.java. Then, run the resultant class using java filename path/to/csv/inputfile. For example, to run quicksort.java on a1.large.csv in the same folder: 1. javac quicksort.java 2. java quicksort a1.large.csv"
+
+"""
+
+[[student]]
+name = "Ryan Do"
+utor = "doryan"
+nmbr = "1001254117"
+
+[[student]]
+name = "Munef Agag"
+utor = "agagmune"
+nmbr = "1000973707"
